@@ -2,12 +2,25 @@
   <!-- SHORT, PUNCHY & NEON CYAN ANIMATION -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ujjwal+👋;Elite+Full+Stack+Engineer;I+Turn+Bugs+Into+Features+🐛;Founder+%40StackByUjjwal+🚀" alt="Typing Text" />
 </div>
-
 <br/>
-
 <div align="center">
+  <a href="https://linktr.ee/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
   <a href="https://linkedin.com/in/stackbyujjwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://dev.to/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://t.me/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://instagram.com/stackbyujjwal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -19,18 +32,16 @@
 
 <br/>
 
-<!-- THE FUNNY & PROFESSIONAL PITCH -->
 ### 🚀 The Engineering Mindset
-I don't just write code; I architect digital experiences, craft sleek UI/UX, and occasionally stare at a missing semicolon for 3 hours. 
+I don't just write code; I architect digital experiences, craft sleek UI/UX, and lead the community at **@StackByUjjwal**. 
 
-- ♟️ **Logic & Strategy:** I analyze complex backend architectures like a chess game—thinking 5 steps ahead, yet occasionally getting checkmated by a typo.
-- 🏋️‍♂️ **Heavy Lifting:** Whether it's lifting dumbbells to build stamina or querying massive databases, I believe in building strong, highly scalable foundations.
-- 🎨 **Full Stack Flexibility:** From writing high-performance **C++ & JS** to designing pixel-perfect **Figma** interfaces (because backend devs deserve beautiful buttons too).
-- ⚡ **Current Status:** Grinding for top-tier MCA programs while building cool, real-world tech at **@StackByUjjwal**.
+- ♟️ **Logic & Strategy:** I analyze complex backend architectures like a chess game—thinking 5 steps ahead.
+- 🏋️‍♂️ **Heavy Lifting:** Whether it's lifting dumbbells or querying massive databases, I believe in strong foundations.
+- 🎨 **Full Stack Flexibility:** Crafting seamless digital products under the **@StackByUjjwal** brand.
+- ⚡ **Current Status:** Grinding for top-tier MCA programs while scaling **@StackByUjjwal** to new heights.
 
 <br/>
 
-<!-- THE MASSIVE TECH ARSENAL (CLEAN 4-COLUMN GRID) -->
 ### 💻 The Tech Arsenal
 
 <table align="center">
@@ -64,7 +75,6 @@ I don't just write code; I architect digital experiences, craft sleek UI/UX, and
 
 <br/>
 
-<!-- TROPHIES (SEXY TOKYONIGHT THEME) -->
 ### 🏆 GitHub Milestones
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stackbyujjwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ujjwal's Trophies" />
@@ -72,12 +82,48 @@ I don't just write code; I architect digital experiences, craft sleek UI/UX, and
 
 <br/>
 
-<!-- DYNAMIC GITHUB STATS (MATCHING THEME) -->
 ### 📈 Impact & Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stackbyujjwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackbyujjwal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackbyujjwal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
+</div>
+
+<p align="center">
+  <b>Explore my work:</b><br>
+  🚀 <a href="https://github.com/stackbyujjwal?tab=repositories">Open Source Projects</a> • 
+  📝 <a href="https://dev.to/stackbyujjwal">Technical Articles</a> • 
+  📺 <a href="https://youtube.com/@stackbyujjwal">Tech Tutorials</a>
+</p>
+
+<br/>
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://linktr.ee/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://linkedin.com/in/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://dev.to/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://t.me/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/stackbyujjwal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:stackbyujjwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
